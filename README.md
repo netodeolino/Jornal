@@ -1,2 +1,7 @@
 # Jornal
-Sistema de Jornal desenvolvido com Java, Spring e JPA
+Sistema de Jornal Eletrônico
+
+Tecnologias:
+	- Spring framework
+	- MySQL via JPA com HIBERNATE 3.0
+	- Java EE
