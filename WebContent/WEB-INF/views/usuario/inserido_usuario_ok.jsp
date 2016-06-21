@@ -18,7 +18,7 @@
 <div class="panel">
 
 		<div class="title">
-        	<h1>CADASTRO REALIZADO COM SUCESSO!</h1>
+        	<h1 align="center">CADASTRO REALIZADO COM SUCESSO!</h1>
     	</div>
 	
 	<a href="inicio.jsp">Volte para a página inicial aqui!</a>

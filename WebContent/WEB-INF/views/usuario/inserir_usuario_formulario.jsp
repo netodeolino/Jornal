@@ -18,7 +18,7 @@
 <div class="generic">
 <div class="panel">
 	<div class="title">
-		<h1>CADASTRAR USUÁRIO</h1>
+		<h1 align="center">CADASTRAR USUÁRIO</h1>
 	</div>
 	<form action="inserirUsuario" method="post" enctype="multipart/form-data">
 		<br/>

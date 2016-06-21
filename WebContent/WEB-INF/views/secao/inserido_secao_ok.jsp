@@ -18,7 +18,7 @@
 <div class="panel">
 
 	<div class="title">
-       	<h1>SEÇÃO INSERIDA COM SUCESSO!</h1>
+       	<h1 align="center">SEÇÃO INSERIDA COM SUCESSO!</h1>
     </div>
 	
 	<a href="inicio.jsp">Volte para a página inicial aqui!</a>

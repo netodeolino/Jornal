@@ -16,6 +16,7 @@
 <div class="primary-col">
 <div class="generic">
 <div class="panel">
+<div align="center">
 	<form action="fazerLogin" method="post">
 		<c:if test="${usuario != null }">
 			<h1>Bem vindo, ${usuario.nome}</h1>
@@ -52,6 +53,7 @@
 			<button type="submit">Sair</button>
 		</form>
 	</c:if>
+</div>
 </div>
 </div>
 </div>

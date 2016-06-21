@@ -19,7 +19,7 @@
 	<form action="inserirUsuarioEditor" method="post" enctype="multipart/form-data">
 		
 		<div class="title">
-        	<h1>CADASTRAR EDITOR</h1>
+        	<h1 align="center">CADASTRAR EDITOR</h1>
     	</div>
 		
 		Nome: <input type="text" name="nome" />

@@ -19,7 +19,7 @@
 	<form action="adicionarPapel" method="post">
 	
 	<div class="title">
-       	<h1>CADASTRAR PAPEL À USUÁRIO</h1>
+       	<h1 align="center">CADASTRAR PAPEL À USUÁRIO</h1>
     </div>
 	
 	Papel:
@@ -28,7 +28,6 @@
 				<option value="${pap.idPapel}">${pap.papel}</option>
 			</c:forEach>
 		</select>
-		<br/>
 	
 		<br/>
 		Login: <input type="text" name="login" />

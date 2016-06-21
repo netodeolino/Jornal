@@ -19,7 +19,7 @@
 	<form action="inserirClassificado" method="post">
 		
 		<div class="title">
-        	<h1>CADASTRAR CLASSIFICADO</h1>
+        	<h1 align="center">CADASTRAR CLASSIFICADO</h1>
     	</div>
 		
 		Titulo: <input type="text" name="titulo" /> <br />

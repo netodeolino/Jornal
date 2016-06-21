@@ -18,7 +18,7 @@
 <div class="panel">
 
 <div class="title">
-	<h1>AÇÕES QUE VOCÊ PODE REALIZAR NO SISTEMA</h1>
+	<h1 align="center">AÇÕES QUE VOCÊ PODE REALIZAR NO SISTEMA</h1>
 </div>
 
 	<c:forEach var="role" items="${usuario.papelList}">

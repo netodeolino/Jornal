@@ -20,7 +20,7 @@
 	<form action="inserirUsuarioJornalista" method="post" enctype="multipart/form-data">
 		
 		<div class="title">
-        	<h1>CADASTRAR JORNALSTA</h1>
+        	<h1 align="center">CADASTRAR JORNALSTA</h1>
     	</div>
 		
 		Nome: <input type="text" name="nome" /> <!-- TRATAR DEPOIS <form:errors path="aluno.nome" /> -->

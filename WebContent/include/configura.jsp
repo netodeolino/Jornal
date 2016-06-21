@@ -18,7 +18,7 @@
 <div class="panel">
 	<div>
 	<div class="title">
-		<h1>Atualizar informações de conta</h1>
+		<h1 align="center">Atualizar informações de conta</h1>
 	</div>
 		<h3><a href="alterarUsuarioFormulario?id=${usuario.idUsuario}">Atualize suas informações</a></h3>
 		<br />

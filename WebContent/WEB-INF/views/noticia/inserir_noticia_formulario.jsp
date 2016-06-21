@@ -19,7 +19,7 @@
 	<form action="inserirNoticia" method="POST" enctype="multipart/form-data">
 		
 		<div class="title">
-        	<h1>CADASTRAR NOTÍCIA</h1>
+        	<h1 align="center">CADASTRAR NOTÍCIA</h1>
     	</div>
 		
 		<select name="idSecao" >

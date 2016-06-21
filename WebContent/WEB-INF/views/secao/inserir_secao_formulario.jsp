@@ -20,7 +20,7 @@
 	<form action="inserirSecao" method="POST">
 		
 		<div class="title">
-        	<h1>CADASTRAR SEÇÃO</h1>
+        	<h1 align="center">CADASTRAR SEÇÃO</h1>
     	</div>
 		
 		Titulo: <input type="text" name="titulo" />

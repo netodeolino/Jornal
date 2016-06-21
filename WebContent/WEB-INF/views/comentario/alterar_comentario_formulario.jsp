@@ -19,7 +19,7 @@
 	<form action="alterarComentario" method="post">
 	
 	<div class="title">
-       	<h1>ALTERAR COMENTÁRIO</h1>
+       	<h1 align="center">ALTERAR COMENTÁRIO</h1>
     </div>
 	
 	<input type="hidden" name="idComentario" value="${comentario.idComentario}" />

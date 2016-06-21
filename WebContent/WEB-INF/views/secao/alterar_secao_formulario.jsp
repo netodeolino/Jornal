@@ -19,7 +19,7 @@
 	<form action="alterarSecao" method="post">
 	
 	<div class="title">
-       	<h1>ALTERAR SEÇÃO</h1>
+       	<h1 align="center">ALTERAR SEÇÃO</h1>
     </div>
 	
 	<input type="hidden" name="idSecao" value="${secao.idSecao}" />

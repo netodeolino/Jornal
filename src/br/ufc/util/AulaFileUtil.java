@@ -13,7 +13,7 @@ public class AulaFileUtil {
 		File file = new File(path);
 		try {
 			FileUtils.writeByteArrayToFile(file, imagem.getBytes());
-			System.out.println("SALVO EM: "+file);
+			//System.out.println("SALVO EM: "+file);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

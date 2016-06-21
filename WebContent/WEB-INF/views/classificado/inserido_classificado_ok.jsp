@@ -18,7 +18,7 @@
 <div class="panel">
 	
 	<div class="title">
-       	<h1>CLASSIFICADO INSERIDO COM SUCESSO!</h1>
+       	<h1 align="center">CLASSIFICADO INSERIDO COM SUCESSO!</h1>
     </div>
 	
 	<h2></h2>

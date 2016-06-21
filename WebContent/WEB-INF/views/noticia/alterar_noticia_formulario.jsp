@@ -19,7 +19,7 @@
 <form action="alterarNoticia" method="post" enctype="multipart/form-data">
 
 	<div class="title">
-       	<h1>ALTERAR NOTÍCIA</h1>
+       	<h1 align="center">ALTERAR NOTÍCIA</h1>
     </div>
 
 	<input type="hidden" name="idNoticia" value="${noticia.idNoticia}" />
